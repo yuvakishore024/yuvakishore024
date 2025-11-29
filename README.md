@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yuvakishore024</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvakishore024" alt="yuvakishore024" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
 - 🌱 I’m currently learning **DevOps, AWS**
 
