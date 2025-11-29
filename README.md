@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvakishore</h1>
-<h3 align="center">a fresher passionate about learning Git, DevOps, scripting and cloud infrastructure.  
+<h3 align="center">A fresher passionate about learning Git, DevOps, scripting and cloud infrastructure.  
 
 💻 Currently exploring Git workflows, AWS(Amazon Web Services).  
 🚀 Interested in Deploying software applications developed by Developers.  
