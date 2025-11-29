@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm yuvakishore024</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center">Hi 👋, I'm Yuvakishore</h1>
+<h3 align="center">a fresher passionate about learning Git, DevOps, scripting and cloud infrastructure.  
+
+💻 Currently exploring Git workflows, AWS(Amazon Web Services).  
+🚀 Interested in Deploying software applications developed by Developers.  
+📚 I enjoy hands-on learning through cheat sheets, guides, and interactive exercises.  
+
+✨ Excited to grow my skills, share beginner-friendly projects and collaborate with the developer communities.  
+ </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
