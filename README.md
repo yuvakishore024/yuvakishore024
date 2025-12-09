@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvakishore</h1>
 <h3 align="center">A fresher passionate about learning Git, DevOps, scripting and cloud infrastructure.  
 
-💻 Currently exploring Git workflows, AWS(Amazon Web Services).  
+💻 Currently exploring Git workflows, Linux, AWS(Amazon Web Services).  
 🚀 Interested in Deploying software applications developed by Developers.  
 📚 I enjoy hands-on learning through cheat sheets, guides, and interactive exercises.  
 
