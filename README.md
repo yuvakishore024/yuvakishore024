@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yuvakishore.024@gmail.com**
 
-- ⚡ Fun fact **Interested about space**
+- ⚡ Fun fact about me is that I am **Interested about space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
